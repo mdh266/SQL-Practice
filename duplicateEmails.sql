@@ -1,4 +1,0 @@
-SELECT name, COUNT(1) AS ct
-FROM Person
-GROUP BY 1
-HAVING ct > 1
