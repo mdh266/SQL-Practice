@@ -8,4 +8,12 @@ FROM
 	 Orders
 	 ON (Customers.Id = Orders.CustomerId) 
 	) Temp
-WHERE Temp.CustomerId IS NULL
+WHERE Temp.CustomerId IS NULL;
+
+
+SELECT name As Customers
+FROM Customers
+WHERE Customers.Id NOT IN
+(SELECT DISTINCT(CustomerId)
+ FROM Orders)
+;
