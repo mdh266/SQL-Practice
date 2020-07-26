@@ -1,0 +1,21 @@
+SELECT 
+    CONCAT(NAME, '(', SUBSTR(OCCUPATION,1,1), ')')
+FROM
+    OCCUPATIONS
+ORDER BY 
+    NAME
+;
+SELECT 
+    CONCAT('There are a total of ',CT,' ',LOWER(OCCUPATION),'s.')
+FROM (
+    SELECT 
+        OCCUPATION,
+        COUNT(1)   AS CT
+    FROM
+        OCCUPATIONS
+    GROUP BY 1
+) COUNTS
+ORDER BY
+    CT ASC,
+    OCCUPATION ASC
+;
