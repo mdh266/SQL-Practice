@@ -1,4 +1,5 @@
 # Practice SQL Scripts From Interview Prep Websites
+------------
 
 These are scripts that answer questions from <a href="https://leetcode.com">leetcode</a>, <a href="https://hackerrank.com">hackerank</a> and <a href="http://sqlzoo.net">sqlzoo</a>. Links to questions and my answers are below!
 
@@ -13,6 +14,8 @@ These are scripts that answer questions from <a href="https://leetcode.com">leet
 | <a href="https://leetcode.com/problems/customers-who-never-order/">Customers who never order</a> | <a href="https://github.com/mdh266/SQL-Practice/blob/master/leetcode/CustomersDontOrder.sql">Solution</a> | 
 | <a href="https://leetcode.com/problems/duplicate-emails/description/">Duplicate Emails</a> | <a href="https://github.com/mdh266/SQL-Practice/blob/master/leetcode/DuplicateEmails.sql">Solution</a> |
 |[Rising Temperatures](https://leetcode.com/problems/rising-temperature) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/RisingTemperatures.sql) |
+|[Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/submissions/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/Top3DeptSalaries.sql) |
+
 
 
 ## Hacker Rank
