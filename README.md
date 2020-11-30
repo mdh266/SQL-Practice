@@ -15,6 +15,9 @@ These are scripts that answer questions from <a href="https://leetcode.com">leet
 | <a href="https://leetcode.com/problems/duplicate-emails/description/">Duplicate Emails</a> | <a href="https://github.com/mdh266/SQL-Practice/blob/master/leetcode/DuplicateEmails.sql">Solution</a> |
 |[Rising Temperatures](https://leetcode.com/problems/rising-temperature) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/RisingTemperatures.sql) |
 |[Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/submissions/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/Top3DeptSalaries.sql) |
+|[N-th Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/NthHighestSalary.sql)|
+|[Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/DeptHighestSalary.sql) |
+| [Rank Scores]() | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/RankScores.sql) |
 
 
 
