@@ -18,6 +18,8 @@ These are scripts that answer questions from <a href="https://leetcode.com">leet
 |[N-th Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/NthHighestSalary.sql)|
 |[Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/DeptHighestSalary.sql) |
 | [Rank Scores](https://leetcode.com/problems/rank-scores/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/RankScores.sql) |
+| [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/notboringmovies.sql)|
+
 
 
 
