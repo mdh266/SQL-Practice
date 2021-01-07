@@ -21,6 +21,7 @@ These are scripts that answer questions from <a href="https://leetcode.com">leet
 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/notboringmovies.sql)|
 | [Exchange Seats](https://leetcode.com/problems/exchange-seats/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/exchange-seats.sql)|
 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/ConsecutiveNumbers.sql)|
+| [Human Traffice Of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/HumanTrafficStadium.sql) |
 
 
 
