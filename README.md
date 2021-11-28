@@ -22,6 +22,7 @@ These are scripts that answer questions from <a href="https://leetcode.com">leet
 | [Exchange Seats](https://leetcode.com/problems/exchange-seats/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/exchange-seats.sql)|
 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/ConsecutiveNumbers.sql)|
 | [Human Traffice Of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/HumanTrafficStadium.sql) |
+| [Trips and Users](https://leetcode.com/problems/trips-and-users/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/trips_and_users.sql) |
 
 
 
@@ -37,6 +38,7 @@ These are scripts that answer questions from <a href="https://leetcode.com">leet
 | [Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9/problem) | [Soluton](https://github.com/mdh266/SQL-Practice/blob/master/hackerrank/WeatherStation9.sql) |
 | [More Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/hackerrank/MoreThan75Marks.sql) |
 | [The Pads](https://www.hackerrank.com/challenges/the-pads/problem) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/hackerrank/ThePads.sql) |
+| [Binary Search Tree 1](https://www.hackerrank.com/challenges/binary-search-tree-1/)| [Solution](https://github.com/mdh266/SQL-Practice/blob/master/hackerrank/binary-search-tree1.sql) |
 
 
 ## SQLZoo
