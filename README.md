@@ -23,7 +23,7 @@ These are scripts that answer questions from <a href="https://leetcode.com">leet
 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/ConsecutiveNumbers.sql)|
 | [Human Traffice Of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/HumanTrafficStadium.sql) |
 | [Trips and Users](https://leetcode.com/problems/trips-and-users/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/trips_and_users.sql) |
-
+|[Capital Gains/Loss](https://leetcode.com/problems/capital-gainloss/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/capital-gainloss.sql) |
 
 
 
