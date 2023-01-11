@@ -12,3 +12,6 @@ SELECT Email, COUNT(1) AS ct
 FROM Person
 GROUP BY 1
 HAVING ct > 1
+
+
+select email as Email from Person group by email having count(email)>1
