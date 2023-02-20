@@ -32,6 +32,7 @@ These are scripts that answer questions from <a href="https://leetcode.com">leet
 | Question                | Answer                 |
 |-------------------------|------------------------:|
 |[Matching Skills](https://datalemur.com/questions/matching-skills) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/datalemur/matching-skills.sql) |
+| [Y-on-Y Growth Rate](https://datalemur.com/questions/yoy-growth-rate) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/datalemur/yoy-growth-rate.sql) |
 
 
 
