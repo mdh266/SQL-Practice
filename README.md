@@ -1,7 +1,7 @@
 # Practice SQL Scripts From Interview Prep Websites
 ------------
 
-These are scripts that answer questions from <a href="https://leetcode.com">leetcode</a>, <a href="https://hackerrank.com">hackerank</a> and <a href="http://sqlzoo.net">sqlzoo</a>. Links to questions and my answers are below!
+These are scripts that answer questions from <a href="https://leetcode.com">leetcode</a>, <a href="https://datalemur.com/">DataLemus</a>, <a href="https://hackerrank.com">hackerank</a> and <a href="http://sqlzoo.net">sqlzoo</a>. Links to questions and my answers are below!
 
 
 ## LeetCode 
@@ -34,7 +34,7 @@ These are scripts that answer questions from <a href="https://leetcode.com">leet
 |[Matching Skills](https://datalemur.com/questions/matching-skills) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/datalemur/matching-skills.sql) |
 | [Y-on-Y Growth Rate](https://datalemur.com/questions/yoy-growth-rate) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/datalemur/yoy-growth-rate.sql) |
 | [Page With No Likes](https://datalemur.com/questions/sql-page-with-no-likes) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/datalemur/sql-page-with-no-likes.sql) |
-| [Frequently Purchased Pairs] (https://datalemur.com/questions/frequently-purchased-pairs) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/datalemur/frequently-purchased-pairs.sql) |
+| [Frequently Purchased Pairs](https://datalemur.com/questions/frequently-purchased-pairs) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/datalemur/frequently-purchased-pairs.sql) |
 | [Supercloud Customer](https://datalemur.com/questions/supercloud-customer) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/datalemur/supercloud-customers.sql) |
 
  
