@@ -36,6 +36,8 @@ These are scripts that answer questions from <a href="https://leetcode.com">leet
 | [Page With No Likes](https://datalemur.com/questions/sql-page-with-no-likes) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/datalemur/sql-page-with-no-likes.sql) |
 | [Frequently Purchased Pairs](https://datalemur.com/questions/frequently-purchased-pairs) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/datalemur/frequently-purchased-pairs.sql) |
 | [Supercloud Customer](https://datalemur.com/questions/supercloud-customer) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/datalemur/supercloud-customers.sql) |
+| [Sending vs. Opening Snap](https://datalemur.com/questions/time-spent-snaps) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/datalemur/time-spend-snaps.sql) |
+| [User's Third Transaction](https://datalemur.com/questions/sql-third-transaction) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/datalemur/sql-third-transaction.sql) |
 
  
 
