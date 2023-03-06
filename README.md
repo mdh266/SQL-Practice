@@ -67,4 +67,3 @@ These are scripts that answer questions from <a href="https://leetcode.com">leet
 | <a href="https://sqlzoo.net/wiki/SELECT_within_SELECT_Tutorial">Neighbours of Argentina and Australia</a> | <a href="https://github.com/mdh266/SQL-Practice/blob/master/sqlzoo/NeighborsOfArgentinaAndAustralia.sql">Solution</a> |
 | <a href="http://sqlzoo.net/wiki/The_JOIN_operation">Teams that have coach Fernando Santos</a> | <a href="https://github.com/mdh266/SQL-Practice/blob/master/sqlzoo/TeamsThatHaveCoach.sql">Solution</a> |
 | <a href="https://sqlzoo.net/wiki/More_JOIN_operations">Busy years for John Travolta</a> | <a href="https://github.com/mdh266/SQL-Practice/blob/master/sqlzoo/BusyYearsJohnTravolta.sql">Solution</a> |
-l
