@@ -38,6 +38,7 @@ These are scripts that answer questions from <a href="https://leetcode.com">leet
 | [Supercloud Customer](https://datalemur.com/questions/supercloud-customer) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/datalemur/supercloud-customer.sql) |
 | [Sending vs. Opening Snap](https://datalemur.com/questions/time-spent-snaps) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/datalemur/time-spent-snaps.sql) |
 | [User's Third Transaction](https://datalemur.com/questions/sql-third-transaction) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/datalemur/sql-third-transaction.sql) |
+| [Repeated Payments](https://datalemur.com/questions/repeated-payments) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/datalemur/repeated-payments.sql) |
 
  
 
