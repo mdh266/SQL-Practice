@@ -33,6 +33,7 @@ These are scripts that answer questions from <a href="https://leetcode.com">leet
 |-------------------------|------------------------:|
 |[Average Review Ratings](https://datalemur.com/questions/sql-avg-review-ratings) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/datalemur/sql-avg-review-ratings.sql) |
 |[Matching Skills](https://datalemur.com/questions/matching-skills) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/datalemur/matching-skills.sql) |
+| [Odd and Even Measurements](https://datalemur.com/questions/odd-even-measurements) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/datalemur/odd-even-measurements.sql) |
 | [Y-on-Y Growth Rate](https://datalemur.com/questions/yoy-growth-rate) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/datalemur/yoy-growth-rate.sql) |
 | [Page With No Likes](https://datalemur.com/questions/sql-page-with-no-likes) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/datalemur/sql-page-with-no-likes.sql) |
 | [Frequently Purchased Pairs](https://datalemur.com/questions/frequently-purchased-pairs) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/datalemur/frequently-purchased-pairs.sql) |
