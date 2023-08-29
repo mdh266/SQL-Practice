@@ -45,7 +45,9 @@ These are scripts that answer questions from <a href="https://leetcode.com">leet
 | [Signup Activation Rate](https://datalemur.com/questions/signup-confirmation-rate) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/datalemur/signup-confirmation-rate.sql) |
 | [Highest-Grossing Items](https://datalemur.com/questions/sql-highest-grossing) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/datalemur/sql-highest-grossing.sql) |
 | [Top 5 Artists](https://datalemur.com/questions/top-fans-rank.sql) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/datalemur/top-fans-rank.sql) |
+| [International Call Percentage](https://datalemur.com/questions/international-call-percentagel) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/datalemur/international-call-percentage.sql) |
  
+
 
 
 
