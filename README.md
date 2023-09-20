@@ -18,7 +18,7 @@ These are scripts that answer questions from <a href="https://leetcode.com">leet
 |[N-th Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/NthHighestSalary.sql)|
 |[Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/DeptHighestSalary.sql) |
 | [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/) | 
-[Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/monthly-transactions-i.sql) ||
+[Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/monthly-transactions-i.sql) |
 | [Rank Scores](https://leetcode.com/problems/rank-scores/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/RankScores.sql) |
 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/notboringmovies.sql)|
 | [Exchange Seats](https://leetcode.com/problems/exchange-seats/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/exchange-seats.sql)|
