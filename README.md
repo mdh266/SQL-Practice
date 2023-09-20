@@ -27,10 +27,12 @@ These are scripts that answer questions from <a href="https://leetcode.com">leet
 |[Market Analysis I](https://leetcode.com/problems/market-analysis-i/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/market-analysis-i.sql) |
 |[Tree Node](https://leetcode.com/problems/tree-node/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/tree-node.sql) |
 
+
 ## DataLemur
 ---------------
 | Question                | Answer                 |
 |-------------------------|------------------------:|
+|[Laptop vs. Mobile Viewership](hhttps://datalemur.com/questions/laptop-mobile-viewership) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/datalemur/laptop-mobile-viewership.sql) |
 |[Average Review Ratings](https://datalemur.com/questions/sql-avg-review-ratings) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/datalemur/sql-avg-review-ratings.sql) |
 |[Matching Skills](https://datalemur.com/questions/matching-skills) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/datalemur/matching-skills.sql) |
 | [Odd and Even Measurements](https://datalemur.com/questions/odd-even-measurements) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/datalemur/odd-even-measurements.sql) |
