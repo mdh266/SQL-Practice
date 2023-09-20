@@ -17,8 +17,7 @@ These are scripts that answer questions from <a href="https://leetcode.com">leet
 |[Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/submissions/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/Top3DeptSalaries.sql) |
 |[N-th Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/NthHighestSalary.sql)|
 |[Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/DeptHighestSalary.sql) |
-| [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/) | 
-[Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/monthly-transactions-i.sql) |
+| [Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/monthly-transactions-i.sql) |
 | [Rank Scores](https://leetcode.com/problems/rank-scores/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/RankScores.sql) |
 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/notboringmovies.sql)|
 | [Exchange Seats](https://leetcode.com/problems/exchange-seats/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/exchange-seats.sql)|
@@ -34,7 +33,7 @@ These are scripts that answer questions from <a href="https://leetcode.com">leet
 ---------------
 | Question                | Answer                 |
 |-------------------------|------------------------:|
-|[Laptop vs. Mobile Viewership](hhttps://datalemur.com/questions/laptop-mobile-viewership) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/datalemur/laptop-mobile-viewership.sql) |
+|[Laptop vs. Mobile Viewership](https://datalemur.com/questions/laptop-mobile-viewership/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/datalemur/laptop-mobile-viewership.sql) |
 |[Average Review Ratings](https://datalemur.com/questions/sql-avg-review-ratings) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/datalemur/sql-avg-review-ratings.sql) |
 |[Matching Skills](https://datalemur.com/questions/matching-skills) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/datalemur/matching-skills.sql) |
 | [Odd and Even Measurements](https://datalemur.com/questions/odd-even-measurements) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/datalemur/odd-even-measurements.sql) |
