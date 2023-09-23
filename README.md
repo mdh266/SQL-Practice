@@ -51,8 +51,7 @@ These are scripts that answer questions from <a href="https://leetcode.com">leet
 | [Highest-Grossing Items](https://datalemur.com/questions/sql-highest-grossing) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/datalemur/sql-highest-grossing.sql) |
 | [Top 5 Artists](https://datalemur.com/questions/top-fans-rank.sql) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/datalemur/top-fans-rank.sql) |
 | [International Call Percentage](https://datalemur.com/questions/international-call-percentage) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/datalemur/international-call-percentage.sql) |
- 
-
+| [Tweets' Rolling Average](https://datalemur.com/questions/rolling-average-tweets) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/datalemur/rolling-average-tweetssql)
 
 
 
@@ -68,6 +67,7 @@ These are scripts that answer questions from <a href="https://leetcode.com">leet
 | [More Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/hackerrank/MoreThan75Marks.sql) |
 | [The Pads](https://www.hackerrank.com/challenges/the-pads/problem) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/hackerrank/ThePads.sql) |
 | [Binary Search Tree 1](https://www.hackerrank.com/challenges/binary-search-tree-1/)| [Solution](https://github.com/mdh266/SQL-Practice/blob/master/hackerrank/binary-serach-tree1.sql) |
+
 
 
 ## SQLZoo
