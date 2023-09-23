@@ -28,6 +28,7 @@ These are scripts that answer questions from <a href="https://leetcode.com">leet
 |[Capital Gains/Loss](https://leetcode.com/problems/capital-gainloss/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/capital-gainloss.sql) |
 |[Market Analysis I](https://leetcode.com/problems/market-analysis-i/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/market-analysis-i.sql) |
 |[Tree Node](https://leetcode.com/problems/tree-node/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/tree-node.sql) |
+| [Restaurant Growth](https://leetcode.com/problems/restaurant-growth/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/restaurant-growth.sql) |
 
 
 ## DataLemur
