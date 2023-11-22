@@ -29,7 +29,7 @@ These are scripts that answer questions from <a href="https://leetcode.com">leet
 |[Market Analysis I](https://leetcode.com/problems/market-analysis-i/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/market-analysis-i.sql) |
 |[Tree Node](https://leetcode.com/problems/tree-node/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/tree-node.sql) |
 | [Restaurant Growth](https://leetcode.com/problems/restaurant-growth/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/restaurant-growth.sql) |
-| [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/game-play-analysis-i.sql)) |
+| [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/game-play-analysis-i.sql) |
 
 
 
