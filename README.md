@@ -32,7 +32,7 @@ These are scripts that answer questions from <a href="https://leetcode.com">leet
 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/game-play-analysis-i.sql) |
 | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/game-play-analysis-iv.sql) |
 | [Investments In 2016](https://leetcode.com/problems/investments-in-2016/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/investments-in-2016.sql) |
-| [Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/description/) | [Solution](ttps://github.com/mdh266/SQL-Practice/blob/master/leetcode/friend-requests-ii-who-has-the-most-friends.sql)|
+| [Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/description/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/friend-requests-ii-who-has-the-most-friends.sql)|
 
 
 
