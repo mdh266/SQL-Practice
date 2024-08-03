@@ -61,6 +61,8 @@ These are scripts that answer questions from <a href="https://leetcode.com">leet
 | [International Call Percentage](https://datalemur.com/questions/international-call-percentage) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/datalemur/international-call-percentage.sql) |
 | [Tweets' Rolling Average](https://datalemur.com/questions/rolling-average-tweets) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/datalemur/rolling-average-tweets.sql) |
 | [Top Three Salaries](https://datalemur.com/questions/sql-top-three-salaries) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/datalemur/sql-top-three-salaries.sql) |
+| [Histogram of Users and Purchases](https://datalemur.com/questions/histogram-users-purchases) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/datalemur/histogram-users-purchases.sql) |
+
 
 
 
