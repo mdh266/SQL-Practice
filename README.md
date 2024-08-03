@@ -33,8 +33,8 @@ These are scripts that answer questions from <a href="https://leetcode.com">leet
 | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/game-play-analysis-iv.sql) |
 | [Investments In 2016](https://leetcode.com/problems/investments-in-2016/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/investments-in-2016.sql) |
 | [Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/description/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/friend-requests-ii-who-has-the-most-friends.sql)|
-| [Odd And Even Transactions](https://leetcode.com/problems/odd-and-even-transactions/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/odd-and-even-transactions.sql) |
-| [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/confirmation-rate.sql)) |
+| [Odd And Even Transactions](https://leetcode.com/problems/odd-and-even-transactions/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/odd-and-event-transactions.sql |
+| [Confirmation Rate](https://leetcode.com/problems/confirmation-rate/) | [Solution](https://github.com/mdh266/SQL-Practice/blob/master/leetcode/confirmation-rate.sql) |
 
 
 
